@@ -1,3 +1,4 @@
 a=3
-b=3
-print(a+b)
+b=2
+c=5
+print(a+b+c)
